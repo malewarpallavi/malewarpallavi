@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center" class="heading-element" dir="auto">
 Hi 👋, I'm Pallavi Malewar</h1>h1>
 
