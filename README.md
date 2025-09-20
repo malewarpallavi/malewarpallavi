@@ -1,8 +1,9 @@
 <h1 align="center" class="heading-element" dir="auto">
 Hi 👋, I'm Pallavi Malewar</h1>
 
-<h2 align="center" dir="auto">
-A passionate Java Full-Stack Developer</h2>
+<p align="center" style="font-size:24px">
+  <b>A passionate Java Full-Stack Developer</b>
+</p>
 
 
 
