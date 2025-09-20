@@ -31,7 +31,10 @@ Hi 👋, I'm Pallavi Malewar</h1>
 ---
 
 ### GitHub Stats
-![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-malewarpallavi&show_icons=true&theme=radical)
+![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 
 
