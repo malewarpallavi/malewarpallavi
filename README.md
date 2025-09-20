@@ -1,10 +1,10 @@
 <h1 align="center" class="heading-element" dir="auto">
 Hi 👋, I'm Pallavi Malewar</h1>
 
-<p align="center" style="font-size:24px">
+<p align="center" style="font-size:28px">
   <b>A passionate Java Full-Stack Developer</b>
 </p>
-
+<br>
 
 
 - 🌱 Currently learning **Spring Boot, MongoDB, and Full-Stack Development**
