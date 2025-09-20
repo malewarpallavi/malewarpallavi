@@ -1,4 +1,6 @@
 ## Hi there 👋
+<h1 align="center" class="heading-element" dir="auto">
+Hi 👋, I'm Pallavi Malewar</h1>h1>
 
 <!--
 **malewarpallavi/malewarpallavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
