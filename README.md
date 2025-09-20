@@ -6,7 +6,8 @@ Hi 👋, I'm Pallavi Malewar</h1>
 
 - 🌱 Currently learning **Spring Boot, MongoDB, and Full-Stack Development**
 - 💬 Ask me about **Java, C, C++, Python, HTML, CSS, JavaScript, SQL**
-- 📫 How to reach me: [Email Me](malewarpallavi@gmail.com)
+- 📫 How to reach me: [Email Me](mailto:malewarpallavi@gmail.com)
+
 
 ---
 
@@ -30,10 +31,10 @@ Hi 👋, I'm Pallavi Malewar</h1>
 ---
 
 ### GitHub Stats
-![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-malewarpallavi&show_icons=true&theme=radical)
+![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?malewarpallavi=your-malewarpallavi&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-malewarpallavi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?malewarpallavi=your-malewarpallavi&layout=compact&theme=radical)
 
 
 
