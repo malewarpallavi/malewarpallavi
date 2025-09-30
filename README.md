@@ -8,7 +8,7 @@ Hi 👋, I'm Pallavi Malewar</h1>
 
 
 - 🌱 Currently learning **Spring Boot, MongoDB, and Full-Stack Development**
-- 💬 Ask me about **Java, C, C++, Python, HTML, CSS, JavaScript, SQL**
+- 💬 Ask me about **Java, C, C++, Python, HTML, CSS, JavaScript, SQL, C# .NET**
 - 📫 How to reach me: [malewarpallavi@gmail.com](mailto:malewarpallavi@gmail.com)
 
 
