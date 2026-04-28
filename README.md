@@ -1,25 +1,36 @@
-<h1 align="center" class="heading-element" dir="auto">
-Hi 👋, I'm Pallavi Malewar</h1>
+<h1 align="center">Hi 👋, I'm Pallavi Malewar</h1>
 
-<p align="center" style="font-size:28px">
-  <b>A passionate Java Full-Stack Developer</b>
+<p align="center">
+  <b>A passionate Java Full-Stack Developer & Cloud Learner ☁️</b>
 </p>
+
 <br>
 
-
-- 🌱 Currently learning **Spring Boot, MongoDB, and Full-Stack Development**
+- 🌱 Currently learning **Spring Boot, MongoDB, Full-Stack Development & AWS Cloud**
+- 💻 Practicing Data Structures & Algorithms on **LeetCode**
 - 💬 Ask me about **Java, C, C++, Python, HTML, CSS, JavaScript, SQL, C# .NET**
 - 📫 How to reach me: [malewarpallavi@gmail.com](mailto:malewarpallavi@gmail.com)
 
+---
+
+### 🚀 Coding Profiles:
+
+<p align="left">
+  <a href="https://leetcode.com/u/pallavimalewar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-### Connect with me:
+### 🤝 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-malewar)
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,13 +41,16 @@ Hi 👋, I'm Pallavi Malewar</h1>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
+
 ![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=malewarpallavi&show_icons=true&theme=radical)
 
-### Top Languages
+---
+
+### 🔥 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malewarpallavi&layout=compact&theme=radical)
-
-
