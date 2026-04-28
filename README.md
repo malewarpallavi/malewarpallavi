@@ -1,79 +1,42 @@
-<h1 align="center">Hi 👋, I'm Pallavi Omprakash Malewar</h1>
+<h1 align="center">Pallavi Omprakash Malewar</h1>
 
 <p align="center">
-  <b>Java Full-Stack Developer | Cloud (AWS) Learner ☁️</b>
-</p>
-
-<br>
-
-* 🌱 Currently learning **Spring Boot, MongoDB, Full-Stack Development & AWS Cloud**
-* 💻 Practicing **Data Structures & Algorithms on LeetCode**
-* 🎯 Goal: Building my own tech company **Krivora**
-* 💬 Ask me about **Java, C, C++, Python, HTML, CSS, JavaScript, SQL, C# .NET**
-* 📫 Reach me at: **[malewarpallavi@gmail.com](mailto:malewarpallavi@gmail.com)**
-
----
-
-### 🚀 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/pallavimalewar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <b>Java Full-Stack Developer • AWS Cloud Learner</b><br>
+  Building real-world systems with clean and scalable code.
 </p>
 
 ---
 
-### 🤝 Connect with me
+## ⚡ Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pallavi-malewar)
-
----
-
-### 🛠️ Languages and Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+- Full-stack development using **Spring Boot & modern web stack**
+- Strengthening **Data Structures & Problem Solving (LeetCode)**
+- Exploring **Cloud (AWS) & backend scalability**
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Key Projects
 
-* 🔹 **Extra2Essential** – Platform connecting surplus resources with NGOs
-* 🔹 **Real-Time Chat Messenger** – Java-based messaging system
-* 🔹 **EduTrack (Student Management System)** – Full-stack CRUD app
-* 🔹 **DSA Implementation** – Data Structures in Java, C, C++
-* 🔹 *(More coming soon...)*
+- **AWS Cloud Cost Monitoring System (Internship Project)**  
+  Built a real-time cloud cost tracking system that monitors AWS usage, predicts future expenses, and triggers alerts on budget anomalies.  
+  → Focused on cost visibility, alerting, and data-driven decision making  
 
----
+- **Extra2Essential**  
+  Platform connecting surplus resources with NGOs  
 
-### 📊 GitHub Stats
-
-![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=malewarpallavi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=300)
+- **EduTrack (Student Management System)**  
+  Full-stack CRUD application  
 
 ---
 
-### 🔥 Top Languages
+## 🧠 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malewarpallavi&layout=compact&theme=radical&langs_count=8&cache_seconds=300)
+- **Languages**: Java • C • C++ • Python • JavaScript  
+- **Backend**: Spring Boot  
+- **Database**: MySQL • MongoDB  
+- **Cloud**: AWS (IAM, Cost Explorer, EC2)  
+- **API & Testing**: Postman  
+- **Core Concepts**: DSA • DBMS • OS • CN  
+- **Tools**: Git • GitHub • Linux  
 
 ---
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=malewarpallavi&theme=radical)
-
----
-
-### ⚡ Fun Fact
-
-💡 I enjoy building real-world projects, solving problems, and continuously learning new technologies to grow in tech 🚀
