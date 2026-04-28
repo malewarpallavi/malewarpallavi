@@ -19,13 +19,16 @@
 
 - **AWS Cloud Cost Monitoring System (Internship Project)**  
   Built a real-time cloud cost tracking system that monitors AWS usage, predicts future expenses, and triggers alerts on budget anomalies.  
-  → Focused on cost visibility, alerting, and data-driven decision making  
+  → Designed for cost visibility, proactive alerting, and smarter cloud spending decisions  
+  → https://github.com/TechnoTanishq/AWS-Cloud-Cost-Monitoring-System
 
 - **Extra2Essential**  
   Platform connecting surplus resources with NGOs  
+  → https://github.com/malewarpallavi/extra2essential
 
 - **EduTrack (Student Management System)**  
   Full-stack CRUD application  
+  → https://github.com/malewarpallavi/EduTrack-Classroom-Student-Management-Portal
 
 ---
 
@@ -40,3 +43,22 @@
 - **Tools**: Git • GitHub • Linux  
 
 ---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=malewarpallavi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=malewarpallavi&theme=tokyonight)
+
+---
+
+## 📫 Connect
+
+- 📧 malewarpallavi@gmail.com
+- 🔗 https://www.linkedin.com/in/pallavi-malewar  
+
+---
+
+## 🧭 Approach
+
+> Build. Learn. Improve.
