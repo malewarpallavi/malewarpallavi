@@ -46,10 +46,10 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=malewarpallavi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=malewarpallavi&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malewarpallavi&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=malewarpallavi&theme=tokyonight" height="180"/>
+</p>
 ---
 
 ## 📫 Connect
