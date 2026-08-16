@@ -1,7 +1,7 @@
-# Pallavi Omprakash Malewar
+<h1 align="center">Pallavi Omprakash Malewar</h1>
 
 <p align="center">
-  <b>Java Full-Stack Developer • Backend & Cloud Enthusiast</b><br>
+  <b>Java Full-Stack Developer • AWS Cloud Learner</b><br>
   Building real-world systems with clean and scalable code.
 </p>
 
@@ -9,9 +9,9 @@
 
 ## ⚡ Current Focus
 
-* Full-stack development using **Spring Boot & React**
+* Full-stack development using **Spring Boot & modern web stack**
 * Strengthening **Data Structures & Problem Solving (LeetCode)**
-* Exploring **AWS Cloud & backend scalability**
+* Exploring **Cloud (AWS) & backend scalability**
 
 ---
 
@@ -26,22 +26,22 @@
   → https://github.com/malewarpallavi/Secure-File-Transfer-Simulation
 
 * **AWS Cloud Cost Monitoring System (Internship Project)**
-  Real-time AWS cost monitoring system that tracks cloud usage, predicts future expenses, and triggers alerts for budget anomalies.
+  Built a real-time cloud cost tracking system that monitors AWS usage, predicts future expenses, and triggers alerts on budget anomalies.
   → https://github.com/TechnoTanishq/AWS-Cloud-Cost-Monitoring-System
 
 ---
 
 ## 🧠 Tech Stack
 
-* **Languages:** Java • C • C++ • Python • JavaScript
-* **Backend:** Spring Boot • REST APIs
-* **Frontend:** React
-* **Database:** MySQL • MongoDB
-* **Cloud:** AWS • IAM • Cost Explorer • EC2
-* **API & Testing:** Postman • Swagger/OpenAPI • k6
-* **Core Concepts:** DSA • DBMS • OS • CN
-* **Systems:** Win32 API • DLL • File I/O
-* **Tools:** Git • GitHub • Linux
+* **Languages**: Java • C • C++ • Python • JavaScript
+* **Backend**: Spring Boot • REST APIs
+* **Frontend**: React
+* **Database**: MySQL • MongoDB
+* **Cloud**: AWS (IAM, Cost Explorer, EC2)
+* **API & Testing**: Postman • Swagger/OpenAPI • k6
+* **Core Concepts**: DSA • DBMS • OS • CN
+* **Systems**: Win32 API • DLL • File I/O
+* **Tools**: Git • GitHub • Linux
 
 ---
 
@@ -59,11 +59,11 @@
 * 📧 [malewarpallavi@gmail.com](mailto:malewarpallavi@gmail.com)
 * 🔗 https://www.linkedin.com/in/pallavi-malewar
 * 💻 https://leetcode.com/u/pallavimalewar/
-* 🧩 https://www.codechef.com/users/pallavimalewar
+* 🧩 https://www.codechef.com/users/pallavimalewar/
 * 📚 https://www.geeksforgeeks.org/user/malewarpv7v2/
 
 ---
 
 ## 🧭 Approach
 
-> **Build. Learn. Improve.**
+> Build. Learn. Improve.
